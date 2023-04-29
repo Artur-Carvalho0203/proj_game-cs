@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Aula18 : MonoBehaviour
 {
-    enum Personagem { Atacar=0,Correr=1,Andar=0 }
+    enum Personagem { Atacar = 0, Correr = 1, Andar = 0 }
 
     void Start()
     {
@@ -19,8 +19,8 @@ public class Aula18 : MonoBehaviour
         print(v1);
         print(v2);
         print(v3);
-
     }
+    
     void Update()
     {
         
